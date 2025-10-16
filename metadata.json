@@ -1,0 +1,16 @@
+{
+  "project_name": "Near-Accident Driving with CoIL + RL",
+  "date": "2025-10-16 04:06:08",
+  "scenario": "cross_traffic",
+  "num_driving_modes": 3,
+  "coil_architecture": {
+    "obs_dim": 8,
+    "hidden_dim": 256,
+    "num_modes": 3,
+    "total_parameters": 191747
+  },
+  "rl_algorithm": "PPO",
+  "rl_training_steps": 30000,
+  "best_policy": "CoIL-Aggressive",
+  "device": "cpu"
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "collision_rate": 0.38,
+    "completion_rate": 0.62,
+    "avg_completion_time": 9.485483870967743,
+    "policy_name": "CoIL-Timid"
+  },
+  {
+    "collision_rate": 0.19,
+    "completion_rate": 0.81,
+    "avg_completion_time": 4.348148148148148,
+    "policy_name": "CoIL-Normal"
+  },
+  {
+    "collision_rate": 0.15,
+    "completion_rate": 0.85,
+    "avg_completion_time": 4.021176470588235,
+    "policy_name": "CoIL-Aggressive"
+  },
+  {
+    "collision_rate": 0.27,
+    "completion_rate": 0.73,
+    "avg_completion_time": 6.120547945205479,
+    "policy_name": "Random"
+  },
+  {
+    "collision_rate": 0.4,
+    "completion_rate": 0.6,
+    "avg_completion_time": 9.979999999999999,
+    "policy_name": "RL-3modes"
+  }
+]
